@@ -24,8 +24,8 @@
 
 | Artifact        | Description                                      | 🔗 |
 |----------------|--------------------------------------------------|----|
-| 🐉 `FableForge` | A D&D-style text RPG with race/class stats, quests & save files | [View](https://github.com/Coding-for-Weeks/FableForge) |
-| 📕 `Pixel Portfolio` | Retro fantasy portfolio with spellbook UI and magical routing | [View](https://coding-for-weeks.github.io/pixel-portfolio/) |
+| 🐉 `FableForge` | A D&D-style text RPG with race/class stats, quests & save files | [View](https://github.com/Nullgrimoire/FableForge) |
+| 📕 `DigitalGrimoire` | Retro fantasy portfolio with spellbook UI and magical routing | [View](https://github.com/Nullgrimoire/DigitalGrimoire) |
 | 🛡️ `OSCP Labs` | Bash tools and penetration test practice notes | 🔐 Private |
 
 ---
