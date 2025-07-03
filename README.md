@@ -1,7 +1,7 @@
 <!-- Optional Custom Banner -->
 <!-- Replace the link below with a real image if you want a banner -->
 <p align="center">
-  <img src="https://github.com/Nullgrimoire/Nullgrimoire/blob/main/assets/banner.png" alt="Codex Arcana Banner" />
+  <img src="https://github.com/Nullgrimoire/Nullgrimoire/blob/main/assets/banner.png?raw=true" alt="Codex Arcana Banner" style="border-radius: 20px; width: 100%; max-width: 900px;" />
 </p>
 
 <!-- Typing animation -->
