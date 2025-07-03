@@ -1,6 +1,6 @@
 <!-- Animated Typing Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8F48F7&center=true&vCenter=true&width=600&lines=Noah+Weeks;Digital+Mage+%7C+Cybersecurity+Apprentice+%7C+Code+Conjurer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8F48F7&center=true&vCenter=true&width=440&lines=Noah+Weeks;Digital+Mage;Cybersecurity+Apprentice;Code+Conjurer" alt="Typing SVG" />
 </p>
 
 <h1 align="center">🪄 Codex Arcana | A Developer's Tome</h1>
