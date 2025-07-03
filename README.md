@@ -15,7 +15,7 @@
 - 🧠 **Mage Class:** Software Developer, Cybersecurity Enthusiast  
 - ⚔️ **Current Quests:** OSCP certification, Python automation, and security scripting  
 - 🔮 **Specializations:** Pen-testing scripts, terminal customization, GitHub Actions, and SQLite-driven game systems  
-- 📖 **Artifacts:** Creator of [FableForge](https://github.com/Coding-for-Weeks/FableForge), a D&D-style text-based RPG  
+- 📖 **Artifacts:** Creator of [FableForge](https://github.com/Nullgrimoire/FableForge), a D&D-style text-based RPG  
 - 🧰 **Toolbelt:** Python, Bash, SQL, React, Linux, GitHub Actions, TailwindCSS  
 
 ---
@@ -40,11 +40,20 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nullgrimoire&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nullgrimoire&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
 ## ✨ Contact the Mage
 
 - 📜 **Website:** [DigitalGrimoire](https://nullgrimoire.github.io/DigitalGrimoire/)  
 - 📫 **Scroll of Summoning:** [weeks.it.solutions@gmail.com](mailto:weeks.it.solutions@gmail.com)
-- 🛡️ **LinkedIn:** [linkedin](https://linkedin.com/in/noahweeks)  
+- 🛡️ **LinkedIn:** [Noah Weeks](https://linkedin.com/in/noahweeks)
 
 ---
 
