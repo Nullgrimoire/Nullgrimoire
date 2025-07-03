@@ -12,7 +12,7 @@
 
 > “Magic is just tech no one's documented yet.”
 
-- 🧠 **Mage Class:** Software Developer, Cybersecurity Enthusiast  
+- 🧠 **Mage Class Developer:** Software Developer, Cybersecurity Enthusiast  
 - ⚔️ **Current Quests:** OSCP certification, Python automation, and security scripting  
 - 🔮 **Specializations:** Pen-testing scripts, terminal customization, GitHub Actions, and SQLite-driven game systems  
 - 📖 **Artifacts:** Creator of [FableForge](https://github.com/Nullgrimoire/FableForge), a D&D-style text-based RPG  
