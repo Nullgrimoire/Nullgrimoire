@@ -42,9 +42,9 @@
 
 ## ✨ Contact the Mage
 
-- 📜 **Website:** [coding-for-weeks.github.io/pixel-portfolio](https://coding-for-weeks.github.io/pixel-portfolio)  
-- 📫 **Scroll of Summoning (Email):** `noah@weeksitsolutions.com`  
-- 🛡️ **LinkedIn:** [linkedin.com/in/noahweeks](https://linkedin.com/in/noahweeks)  
+- 📜 **Website:** [DigitalGrimoire](https://nullgrimoire.github.io/DigitalGrimoire/)  
+- 📫 **Scroll of Summoning (Email):** [weeks.it.solutions@gmail.com](mailto:weeks.it.solutions@gmail.com)
+- 🛡️ **LinkedIn:** [linkedin](https://linkedin.com/in/noahweeks)  
 
 ---
 
