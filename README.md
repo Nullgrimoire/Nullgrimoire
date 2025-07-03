@@ -21,8 +21,7 @@
 - 🧠 **Mage Class (Developer):** Software Developer, Cybersecurity Enthusiast  
 - ⚔️ **Current Quests:** OSCP certification, Python automation, and security scripting  
 - 🔮 **Specializations:** Pen-testing scripts, terminal customization, GitHub Actions, and SQLite-driven game systems  
-- 📖 **Artifacts:** Creator of [FableForge](https://github.com/Nullgrimoire/FableForge), a D&D-style text-based RPG  
-- 🧰 **Toolbelt:** Python, Bash, SQL, React, Linux, GitHub Actions, TailwindCSS  
+- 📖 **Artifacts:** Creator of [FableForge](https://github.com/Nullgrimoire/FableForge), a D&D-style text-based RPG   
 
 ---
 
@@ -36,22 +35,97 @@
 
 ---
 
-## 🧰 Spell Components
+## 🧪 Spell Components
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+Tools, languages, and frameworks I conjure with — from backend rituals to frontend glamours, from terminal enchantments to digital espionage.
+
+---
+
+<details>
+<summary>📜 <strong>Languages of Power</strong></summary>
+
+- 🐍 **Python** — scripting, automation, RPG logic, hacking tools  
+- 🦫 **Go (Golang)** — building fast CLI tools and scanners  
+- 🧙‍♂️ **JavaScript** — UI interactivity, React components, frontend spells  
+- 🪄 **Bash** — terminal automation, dotfiles, custom CLI incantations
+
+</details>
+
+---
+
+<details>
+<summary>🛠️ <strong>Enchanted Toolbelt</strong></summary>
+
+- 🧩 **VS Code** — primary IDE, configured with themes and plugin familiars  
+- 🧭 **Git & GitHub** — version control rituals, branches, PRs, Actions  
+- ⚙️ **tmux** / **zsh** / **Oh My Posh** — terminal multiplexing & status glyphs  
+- 🐧 **Ubuntu Linux** (WSL & native) — your development sanctum  
+- 🧰 **curl**, **jq**, **ripgrep**, **htop** — reliable shell scrolls
+
+</details>
+
+---
+
+<details>
+<summary>🧷 <strong>Runes & Frameworks</strong></summary>
+
+- ⚛️ **React** — enchanted frontend rendering for portfolio and UI spells  
+- 🌬️ **TailwindCSS** — utility-first style crafting  
+- 🐍 **Flask** — lightweight Python webbinding  
+- 🧱 **SQLite** — persistent character data for FableForge  
+- 🔩 **Godot** *(experimental)* — gamedev engine for side quests
+
+</details>
+
+---
+
+<details>
+<summary>🔐 <strong>Dark Arts & Cybersecurity</strong></summary>
+
+- 🧿 **Burp Suite** — web application sorcery & traffic manipulation  
+- 🕵️‍♂️ **Nmap** — network reconnaissance spells  
+- 🧛‍♂️ **Kali Linux** — OSCP prep and penetration testing rituals  
+- 🧨 **Metasploit**, **Netcat**, **Enum4linux** — deeper intrusion magic  
+- 🔐 **Hashcat**, **John the Ripper** — password cracking incantations
+
+</details>
+
+---
+
+<details>
+<summary>☁️ <strong>Deployment & Automagic</strong></summary>
+
+- 🧙‍♂️ **GitHub Actions** — CI/CD spell triggers and test rituals  
+- 🚀 **Netlify** / **GitHub Pages** — for portfolio site hosting  
+- 🧪 **Postman**, **Insomnia** — for testing scroll-based APIs
+
+</details>
+
+---
+
+<details>
+<summary>📚 <strong>Codices & Notebooks</strong></summary>
+
+- 🧠 **Notion** — digital grimoire, project boards, character sheets  
+- 🧾 **Obsidian** — second brain & markdown spell scrolls  
+- 🧮 **Markdown** — for README incantations and open-source lore
+
+</details>
 
 ---
 
 ## 📊 GitHub Stats
 
+<details>
+<summary>Summary</summary>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nullgrimoire&layout=compact&theme=tokyonight" />
+
   <img src="https://github-readme-stats.vercel.app/api?username=Nullgrimoire&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nullgrimoire&layout=compact&theme=tokyonight" />
+
 </p>
+
+</details>
 
 ---
 
@@ -66,4 +140,3 @@
 ## 🧙‍♂️ Final Words
 
 > "Commit spells. Push dreams. Merge realities."
-
