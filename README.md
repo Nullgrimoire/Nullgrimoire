@@ -43,7 +43,7 @@
 ## ✨ Contact the Mage
 
 - 📜 **Website:** [DigitalGrimoire](https://nullgrimoire.github.io/DigitalGrimoire/)  
-- 📫 **Scroll of Summoning (Email):** [weeks.it.solutions@gmail.com](mailto:weeks.it.solutions@gmail.com)
+- 📫 **Scroll of Summoning:** [weeks.it.solutions@gmail.com](mailto:weeks.it.solutions@gmail.com)
 - 🛡️ **LinkedIn:** [linkedin](https://linkedin.com/in/noahweeks)  
 
 ---
