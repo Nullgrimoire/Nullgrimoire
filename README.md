@@ -117,7 +117,7 @@ Tools, languages, and frameworks I conjure with — from backend rituals to fron
 ## 📊 GitHub Stats
 
 <details>
-<summary>Summary</summary>
+<summary>📊 <strong>Open the Arcane Git Scrolls</strong></summary>
 <p align="center">
 
   <img src="https://github-readme-stats.vercel.app/api?username=Nullgrimoire&show_icons=true&theme=tokyonight" />
