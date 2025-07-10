@@ -31,6 +31,7 @@
 |----------------|--------------|----------|
 | 🐉 [`FableForge`](https://github.com/Nullgrimoire/FableForge) | A D&D-style text RPG with dynamic stats, quests, and SQLite save files | • Python-based CLI<br>• Subclassed races and classes<br>• Modular quest engine |
 | 📕 [`DigitalGrimoire`](https://github.com/Nullgrimoire/DigitalGrimoire) | Pixel fantasy portfolio with retro UI and magical routing | • React + Vite<br>• HashLink smooth scroll<br>• Tailwind + pixel art |
+| ⚙️ [`TSMngr`](https://github.com/Nullgrimoire/TSMngr) | A Rust CLI ticket manager with persistent JSON storage and markdown export | • Rust CLI<br>• Create / update / delete tickets<br>• Markdown export |
 | 🛡️ `OSCP Labs` | Private repo of Bash scripts and notes for OSCP prep | • Bash & nmap tooling<br>• Notes, automation, and recon helpers |
 
 ---
