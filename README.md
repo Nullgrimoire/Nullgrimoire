@@ -42,12 +42,8 @@
 ## 📊 GitHub Snapshot
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nullgrimoire&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nullgrimoire&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Nullgrimoire/Nullgrimoire/main/assets/github-report.png" width="600" alt="GitHub Summary (C+ grade, Python-heavy)" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nullgrimoire&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
