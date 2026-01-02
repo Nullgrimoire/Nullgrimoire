@@ -183,6 +183,8 @@ impl Mage {
 
 ## 📈 Commit Graph
 
+<br/>
+
 <p align="center">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=Nullgrimoire&custom_title=Commit%20Timeline&theme=tokyo-night&hide_border=true&area=true"
