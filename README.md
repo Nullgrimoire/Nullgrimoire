@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="./assets/banner.png" alt="Nullgrimoire Banner" width="100%" />
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8F48F7&center=true&vCenter=true&width=440&lines=Noah+Weeks;Digital+Mage+%F0%9F%AA%84;Rust+and+Python+Dev;TSMngr+%2F+NullScan+Creator;Cybersecurity+Apprentice;Open+Source+Contributor" alt="Typing SVG" />
 </p>
 
