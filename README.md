@@ -94,12 +94,8 @@ impl Mage {
 <tr>
 <td width="50%" valign="top">
 
-### 🎫 TSMngr
+### 📋 TSMngr
 **Cross-Platform Ticket System Manager**
-
-<a href="https://github.com/Nullgrimoire/TSMngr">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nullgrimoire&repo=TSMngr&theme=tokyonight&hide_border=true&border_radius=10" width="100%" />
-</a>
 
 **✨ Features:**
 - 🐍 Built with Python & SQLite
@@ -107,21 +103,25 @@ impl Mage {
 - ⚡ Fast, lightweight, production-ready
 - 🧾 Complete ticket lifecycle management
 
+<a href="https://github.com/Nullgrimoire/TSMngr">
+  <img src="https://img.shields.io/badge/View_Project-8F48F7?style=for-the-badge&logo=github&logoColor=white" alt="View TSMngr" />
+</a>
+
 </td>
 <td width="50%" valign="top">
 
-### 🔍 NullScan
+### � NullScan
 **Blazing Fast Network Scanner**
-
-<a href="https://github.com/Nullgrimoire/NullScan">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nullgrimoire&repo=NullScan&theme=tokyonight&hide_border=true&border_radius=10" width="100%" />
-</a>
 
 **✨ Features:**
 - 🦀 Written in pure Rust
 - 🌐 CIDR support & smart concurrency
 - 🎯 Perfect for security audits
 - 🚀 Maximum performance, zero bloat
+
+<a href="https://github.com/Nullgrimoire/NullScan">
+  <img src="https://img.shields.io/badge/View_Project-8F48F7?style=for-the-badge&logo=github&logoColor=white" alt="View NullScan" />
+</a>
 
 </td>
 </tr>
@@ -183,11 +183,11 @@ impl Mage {
 
 ## 📊 Grimoire Statistics
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Nullgrimoire&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=10&bg_color=1a1b27&title_color=8F48F7&icon_color=8F48F7&text_color=c9d1d9" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nullgrimoire&theme=tokyonight&hide_border=true&border_radius=10&background=1a1b27&ring=8F48F7&fire=8F48F7&currStreakLabel=8F48F7" alt="GitHub Streak" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Nullgrimoire&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=10" alt="GitHub Stats"/>
+<img width="49%" src="https://streak-stats.demolab.com/?user=Nullgrimoire&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nullgrimoire&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&border_radius=10&bg_color=1a1b27&title_color=8F48F7&text_color=c9d1d9" alt="Top Languages"/>
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Nullgrimoire&custom_title=Contribution%20Timeline&theme=tokyo-night&hide_border=true&border_radius=10&bg_color=1a1b27&color=8F48F7&line=8F48F7&point=c9d1d9&area_color=8F48F7&area=true" alt="Contribution Graph" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nullgrimoire&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages"/>
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Nullgrimoire&custom_title=Contribution%20Timeline&theme=tokyo-night&hide_border=true&border_radius=10" alt="Contribution Graph" />
 
 <br/>
 
@@ -230,12 +230,4 @@ impl Mage {
 
 </div>
 
----
 
-<div align="center">
-
-**⭐ Star my repositories if you find them magical! ⭐**
-
-[![Star History](https://api.star-history.com/svg?repos=Nullgrimoire/TSMngr,Nullgrimoire/NullScan&type=Date&theme=dark)](https://star-history.com/#Nullgrimoire/TSMngr&Nullgrimoire/NullScan&Date)
-
-</div>
