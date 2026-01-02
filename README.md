@@ -183,11 +183,20 @@ impl Mage {
 
 ## 📊 Grimoire Statistics
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Nullgrimoire&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=10" alt="GitHub Stats"/>
-<img width="49%" src="https://streak-stats.demolab.com/?user=Nullgrimoire&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
+<a href="https://github.com/Nullgrimoire">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nullgrimoire&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=10" alt="GitHub Stats"/>
+</a>
+<a href="https://github.com/Nullgrimoire">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Nullgrimoire&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
+</a>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nullgrimoire&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages"/>
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Nullgrimoire&custom_title=Contribution%20Timeline&theme=tokyo-night&hide_border=true&border_radius=10" alt="Contribution Graph" />
+<a href="https://github.com/Nullgrimoire">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nullgrimoire&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages"/>
+</a>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nullgrimoire&custom_title=Contribution%20Timeline&theme=tokyo-night&hide_border=true&area=true" width="98%" alt="Contribution Graph" />
 
 <br/>
 
@@ -222,7 +231,7 @@ impl Mage {
 
 <br/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Random Dev Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 
 <br/><br/>
 
