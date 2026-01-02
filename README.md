@@ -1,150 +1,241 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8F48F7&center=true&vCenter=true&width=440&lines=Noah+Weeks;Digital+Mage+%F0%9F%AA%84;Rust+and+Python+Dev;TSMngr+%2F+NullScan+Creator;Cybersecurity+Apprentice;Open+Source+Contributor" alt="Typing SVG" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nullgrimoire&label=Profile%20Views&color=8F48F7&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/Nullgrimoire?label=Followers&style=social" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/Nullgrimoire?label=Stars&style=social" alt="Stars" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=200&section=header&text=Noah%20Weeks&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Digital%20Mage%20%F0%9F%AA%84%20%7C%20Code%20Sorcerer%20%7C%20Systems%20Alchemist&descSize=20&descAlignY=55" width="100%"/>
 
-<h1 align="center">🪄 Codex Arcana</h1>
-<p align="center">
-  <em>Writing code with intent. Testing spells with precision. Pushing the boundaries of digital sorcery.</em>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=8F48F7&center=true&vCenter=true&width=600&lines=Rust+%26+Python+Sorcerer+%F0%9F%A6%80%F0%9F%90%8D;TSMngr+%2F+NullScan+Creator+%E2%9A%A1;Cybersecurity+Apprentice+%F0%9F%94%90;Open+Source+Contributor+%F0%9F%8C%9F;Building+Developer+Tools+%F0%9F%9B%A0%EF%B8%8F;Automating+The+Future+%F0%9F%A4%96" alt="Typing SVG" />
 
----
+<br/>
 
-## 🧙 About Me
+<img src="https://komarev.com/ghpvc/?username=Nullgrimoire&label=Grimoire%20Visitors&color=8F48F7&style=for-the-badge" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/Nullgrimoire?label=Followers&style=for-the-badge&color=8F48F7&labelColor=1a1b27" alt="Followers" />
+<img src="https://img.shields.io/github/stars/Nullgrimoire?label=Stars&style=for-the-badge&color=8F48F7&labelColor=1a1b27" alt="Stars" />
 
-<img align="right" alt="Coding Wizard" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+<br/><br/>
 
-> *"Magic is just tech no one's documented yet."*
+### 🪄 *"Writing code with intent. Testing spells with precision. Pushing the boundaries of digital sorcery."*
+
+</div>
+
+
+<br/>
+
+<div align="center">
+
+## 🧙‍♂️ The Mage Behind The Code
+
+</div>
+
+<table align="center">
+<tr>
+<td width="50%">
+
+### 📜 *"Magic is just tech no one's documented yet."*
 
 ```rust
-fn main() {
-    let passions = vec!["Rust 🦀", "Python 🐍", "Security 🔐"];
-    let mission = "Building tools that make developers' lives easier";
-    
-    loop {
-        code();
-        learn();
-        share();
+struct Mage {
+    name: String,
+    passions: Vec<&'static str>,
+    mission: &'static str,
+}
+
+impl Mage {
+    fn conjure() -> Self {
+        Mage {
+            name: "Noah Weeks".to_string(),
+            passions: vec![
+                "🦀 Rust",
+                "🐍 Python",
+                "🔐 Security"
+            ],
+            mission: "Building tools that make \
+                     developers' lives easier",
+        }
+    }
+
+    fn daily_ritual(&self) {
+        loop {
+            self.code();
+            self.learn();
+            self.share();
+        }
     }
 }
 ```
 
-- 🧠 Developer conjuring tools in **Rust** and **Python**  
-- ⚔️ Focused on automation, terminal UX, and security workflows  
-- 🔍 Projects that balance style, speed, and sorcery  
-- 📚 Obsessed with GitHub Actions, clean code, and hacking gear  
-- 🌱 Currently diving deeper into **systems programming** and **offensive security**
-- ⚡ Fun fact: I automate everything I do more than twice
+</td>
+<td width="50%">
 
----
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400px" alt="Coding Animation"/>
 
-## 🛠️ Featured Projects
+<br/><br/>
 
-<details open>
-<summary><b>🔥 Active Projects</b></summary>
-<br>
+**🎯 Current Quests:**
+
+- 🧠 Conjuring tools in **Rust** & **Python**
+- ⚔️ Mastering automation & terminal UX
+- 🔍 Building with style, speed & sorcery
+- 📚 GitHub Actions & clean code devotee
+- 🌱 Deep dive: **systems programming**
+- 🛡️ Exploring **offensive security**
+- ⚡ Automating everything (2+ times = automation)
+
+</td>
+</tr>
+</table>
+
+
+<br/>
+
+<div align="center">
+
+## 🛠️ Featured Spellwork
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎫 TSMngr
+**Cross-Platform Ticket System Manager**
 
 <a href="https://github.com/Nullgrimoire/TSMngr">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Nullgrimoire&repo=TSMngr&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nullgrimoire&repo=TSMngr&theme=tokyonight&hide_border=true&border_radius=10" width="100%" />
 </a>
 
-**TSMngr** - Cross-platform ticket system manager
-- 🧾 Built with Python and SQLite
-- 🖥️ Beautiful CLI interface with rich formatting
-- ⚡ Fast, lightweight, and easy to use
+**✨ Features:**
+- 🐍 Built with Python & SQLite
+- 🎨 Beautiful CLI with rich formatting
+- ⚡ Fast, lightweight, production-ready
+- 🧾 Complete ticket lifecycle management
 
-<br>
+</td>
+<td width="50%" valign="top">
+
+### 🔍 NullScan
+**Blazing Fast Network Scanner**
 
 <a href="https://github.com/Nullgrimoire/NullScan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Nullgrimoire&repo=NullScan&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nullgrimoire&repo=NullScan&theme=tokyonight&hide_border=true&border_radius=10" width="100%" />
 </a>
 
-**NullScan** - Blazing fast network scanner
-- 🦀 Written in Rust for maximum performance
-- 🔍 CIDR support and intelligent concurrency
-- 🎯 Perfect for security audits and network discovery
+**✨ Features:**
+- 🦀 Written in pure Rust
+- 🌐 CIDR support & smart concurrency
+- 🎯 Perfect for security audits
+- 🚀 Maximum performance, zero bloat
 
-</details>  
+</td>
+</tr>
+</table>
 
----
+<br/>
 
-## ⚙️ Tech Stack & Tools
+> 💡 *Check out my [DigitalGrimoire](https://nullgrimoire.github.io/DigitalGrimoire/) for more projects and experiments*
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=rust,python,js,bash,git,github,vscode,linux,docker&perline=9" alt="Tech Stack" />
-</p>
+</div>
 
-### 💻 Languages
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-### 🛠️ Tools & Frameworks
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+<br/>
 
-### 🔐 Security Tools
-![Nmap](https://img.shields.io/badge/Nmap-0080FF?style=for-the-badge&logo=nmap&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+<div align="center">
 
----
+## ⚙️ Arsenal of Magic
 
-## 📊 GitHub Analytics
+### 💻 Languages & Core Skills
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nullgrimoire&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nullgrimoire&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</p>
+<img src="https://skillicons.dev/icons?i=rust,python,javascript,bash,powershell,html,css,markdown&perline=8&theme=dark" alt="Languages" />
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nullgrimoire&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nullgrimoire&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
-</p>
+### 🛠️ Tools, Frameworks & Environments
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,linux,windows,docker,flask&perline=8&theme=dark" alt="Tools" />
+
+<br/>
+
+### 🎨 Additional Technologies
+
+<table align="center">
+<tr>
+<td align="center" width="96">
+<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
+</td>
+<td align="center" width="96">
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
+</td>
+<td align="center" width="96">
+<img src="https://img.shields.io/badge/Nmap-0080FF?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap"/>
+</td>
+<td align="center" width="96">
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white" alt="Burp Suite"/>
+</td>
+<td align="center" width="96">
+<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit"/>
+</td>
+</tr>
+</table>
+
+</div>
+
+
+<br/>
+
+<div align="center">
+
+## 📊 Grimoire Statistics
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Nullgrimoire&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=10&bg_color=1a1b27&title_color=8F48F7&icon_color=8F48F7&text_color=c9d1d9" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nullgrimoire&theme=tokyonight&hide_border=true&border_radius=10&background=1a1b27&ring=8F48F7&fire=8F48F7&currStreakLabel=8F48F7" alt="GitHub Streak" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nullgrimoire&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&border_radius=10&bg_color=1a1b27&title_color=8F48F7&text_color=c9d1d9" alt="Top Languages"/>
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Nullgrimoire&custom_title=Contribution%20Timeline&theme=tokyo-night&hide_border=true&border_radius=10&bg_color=1a1b27&color=8F48F7&line=8F48F7&point=c9d1d9&area_color=8F48F7&area=true" alt="Contribution Graph" />
+
+<br/>
 
 <details>
-<summary><b>🏆 GitHub Trophies</b></summary>
+<summary><b>🏆 Achievement Showcase</b></summary>
 <br>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nullgrimoire&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
-</p>
+<img src="https://github-profile-trophy.vercel.app/?username=Nullgrimoire&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=6&margin-w=10&margin-h=10" alt="GitHub Trophies" width="100%" />
 </details>
 
+</div>
+
+
+<br/>
+
+<div align="center">
+
+## 📫 Summon The Mage
+
+<a href="https://nullgrimoire.github.io/DigitalGrimoire/">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-8F48F7?style=for-the-badge&logoColor=white" alt="Portfolio" />
+</a>
+<a href="mailto:null.grimoire.mage@gmail.com">
+  <img src="https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://buymeacoffee.com/nullgrimoire">
+  <img src="https://img.shields.io/badge/☕_Support-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
+</a>
+
+<br/><br/>
+
+### 💭 *"Commit spells. Push dreams. Merge realities."*
+
+<br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Random Dev Quote"/>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=120&section=footer" width="100%"/>
+
+</div>
+
 ---
 
-## 📫 Let's Connect
+<div align="center">
 
-<p align="center">
-  <a href="https://nullgrimoire.github.io/DigitalGrimoire/">
-    <img src="https://img.shields.io/badge/Portfolio-8F48F7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="mailto:null.grimoire.mage@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://buymeacoffee.com/nullgrimoire">
-    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
-  </a>
-</p>
+**⭐ Star my repositories if you find them magical! ⭐**
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8F48F7&height=100&section=footer" />
-</p>
+[![Star History](https://api.star-history.com/svg?repos=Nullgrimoire/TSMngr,Nullgrimoire/NullScan&type=Date&theme=dark)](https://star-history.com/#Nullgrimoire/TSMngr&Nullgrimoire/NullScan&Date)
 
----
-
-<p align="center">
-  <i>"Commit spells. Push dreams. Merge realities."</i>
-  <br><br>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-</p>
+</div>
