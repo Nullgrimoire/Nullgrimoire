@@ -179,6 +179,7 @@ impl Mage {
 
 <br/>
 
+<div align="center">
 
 ## 📈 Commit Graph
 
@@ -191,6 +192,8 @@ impl Mage {
     alt="Commit Graph"
   />
 </p>
+
+</div>
 
 
 <div align="center">
