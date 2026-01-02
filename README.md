@@ -181,27 +181,17 @@ impl Mage {
 
 <div align="center">
 
-## 📊 Grimoire Statistics
+## 📈 Commit Graph
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Nullgrimoire&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=21600" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Nullgrimoire&custom_title=Commit%20Timeline&theme=tokyo-night&hide_border=true&area=true"
+    width="95%"
+    alt="Commit Graph"
+  />
 </p>
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nullgrimoire&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=21600" />
-</p>
-
-<details>
-<summary><b>🏆 Achievement Showcase</b></summary>
-<br>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nullgrimoire&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=6&margin-w=10&margin-h=10" width="100%" />
-</p>
-</details>
-
 
 </div>
-
 
 <br/>
 
