@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=180&section=header&text=Noah%20Weeks&fontSize=58&fontColor=fff&fontAlignY=35&desc=nullps1%20%7C%20systems%20builder&descSize=16&descAlignY=55" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=8F48F7&center=true&vCenter=true&width=600&lines=Full-stack+developer;Rust+%2F+Python+systems+builder;Automation+engineer;Security-curious;Building+tools+that+stay+out+of+the+way" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=8F48F7&center=true&vCenter=true&width=600&lines=Full-stack+developer;Rust+%2F+Python+systems+builder;Automation+engineer;Security-focused;Building+tools+that+stay+out+of+the+way" />
 
 <br/>
 
@@ -17,9 +17,9 @@
 
 I build software that removes friction.
 
-Automation, developer tools, internal systems anything that replaces repetition or stabilizes messy workflows.
+Automation, developer tools, internal systems — anything that replaces repetition or stabilizes messy workflows.
 
-Currently building under **nullps1**.
+Currently operating under **nullps1**.
 
 ---
 
@@ -29,7 +29,7 @@ Currently building under **nullps1**.
 - CLI tools & developer workflows  
 - automation that replaces manual ops  
 - security-minded engineering  
-- infrastructure that stays boring (good thing)
+- infrastructure that stays boring (on purpose)
 
 ---
 
@@ -43,11 +43,11 @@ Git · GitHub Actions · Bash
 
 ## // projects
 
-**TSMngr**  
-Ticket / workflow manager  
+**tsmngr**  
+Ticket / workflow manager for operational systems  
 CLI-first, structured, fast.
 
-**NullScan**  
+**nullscan**  
 High-performance network scanner  
 Rust-based, concurrent, security-focused.
 
@@ -69,5 +69,5 @@ github: https://github.com/nullps1
 ---
 
 <div align="center">
-commit small improvements. ship quietly. break less.
+commit small improvements · ship quietly · break less
 </div>
