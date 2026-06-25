@@ -17,7 +17,7 @@
 
 I build software that removes friction.
 
-Automation, developer tools, internal systems—anything that replaces repetition or stabilizes messy workflows.
+Automation, developer tools, internal systems anything that replaces repetition or stabilizes messy workflows.
 
 Currently building under **nullps1**.
 
